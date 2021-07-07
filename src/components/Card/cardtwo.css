@@ -1,0 +1,8 @@
+.last_card{width: 268px;height: 101px;margin: 24px 35px 10px 35px;border-radius: 10px!important;
+    background-color: #1d1d1d!important;}
+.key_content{display: flex;border-radius: 10px;background-color: #080808!important;}
+.key{font-size: 10px;line-height: 1.88;letter-spacing: normal;text-align: left;color: #ffffff;padding: 0 7px}    
+.key_btn{padding: 3px 14px;font-size: 10px;margin: 5px 3px;margin-left: auto;border-radius: 7px;
+    border: solid 1px #707070;color: #707070;}
+.info_icon{line-height: 2.5;letter-spacing: normal;text-align: left;color: #939393;font-size: 12px;}
+.bhavna{color: #6e6e6e!important;text-align: left;margin: 1px 35px;font-size: 14px;}
